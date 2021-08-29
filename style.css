@@ -1,0 +1,27 @@
+
+*{
+padding: 0px;
+margin: 0px;
+
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+
+    height: 3rem;
+    width: 3rem;
+    margin: 2px;
+    
+}
+input{
+
+    padding: 1.4rem;
+    text-align: right;
+}
